@@ -1,0 +1,5 @@
+{
+  "name": "AI Logo Artisan",
+  "description": "An application that uses the Gemini API to generate unique and creative logos from text descriptions. Simply describe your vision, and let the AI bring it to life.",
+  "requestFramePermissions": []
+}
